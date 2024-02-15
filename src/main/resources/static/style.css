@@ -1,0 +1,21 @@
+html{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#id{
+    width: 50%;
+}
+
+#nome{
+    width: 60%;
+}
+
+#idade{
+    width: 60%;
+}
+
+#tabelaResult{
+    height: 350px;
+    overflow: scroll;
+}
